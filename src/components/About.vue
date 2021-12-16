@@ -1,10 +1,12 @@
 <template>
+
   <div>
-      <h1>About page </h1>
+       <h1>About page</h1>
     <p>
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci aut cupiditate dolores, neque quisquam quos rerum tenetur veniam? Deleniti eius incidunt nisi recusandae tempore temporibus? Consequuntur culpa ea nostrum velit.
+        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Asperiores doloremque eligendi eum exercitationem expedita laudantium magnam maiores mollitia nisi nostrum quia rerum saepe sequi, unde velit vero voluptatum. Necessitatibus, quo.
     </p>
   </div>
+
 </template>
 
 <script>

@@ -1,12 +1,11 @@
 <template>
 
   <div>
-       <h1>Home page</h1>
+    <h1>Home page </h1>
     <p>
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab atque blanditiis cum dicta incidunt ipsam laborum molestias natus, necessitatibus obcaecati officia officiis perspiciatis possimus quaerat quidem rerum similique suscipit! Dolorem!
+         Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam at cumque distinctio ea, et eum ex illo in laboriosam magnam mollitia, natus necessitatibus nulla officia quas quasi quo sequi sit!
     </p>
   </div>
-
 </template>
 
 <script>
